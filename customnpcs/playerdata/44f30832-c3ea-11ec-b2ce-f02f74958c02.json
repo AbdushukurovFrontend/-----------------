@@ -1,0 +1,90 @@
+{
+    "bodyColor": 0,
+    "eyesColor": 0,
+    "ItemGiversList": [
+    ],
+    "body": 0,
+    "isActive": 0b,
+    "DialogData": [
+        {
+            "Dialog": 18
+        },
+        {
+            "Dialog": 4
+        },
+        {
+            "Dialog": 5
+        },
+        {
+            "Dialog": 6
+        },
+        {
+            "Dialog": 7
+        },
+        {
+            "Dialog": 11
+        },
+        {
+            "Dialog": 13
+        }
+    ],
+    "leg": 0,
+    "hair": 0,
+    "MailData": [
+    ],
+    "PlayerName": "SemkaYT_Dream",
+    "hairColor": 0,
+    "UUID": "44f30832-c3ea-11ec-b2ce-f02f74958c02",
+    "ScriptStoreddata": {
+    },
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 0,
+            "Faction": 2
+        },
+        {
+            "Points": 1000,
+            "Faction": 6
+        },
+        {
+            "Points": 1000,
+            "Faction": 7
+        },
+        {
+            "Points": 1000,
+            "Faction": 9
+        },
+        {
+            "Points": 1000,
+            "Faction": 10
+        },
+        {
+            "Points": 1000,
+            "Faction": 11
+        },
+        {
+            "Points": 1000,
+            "Faction": 12
+        }
+    ],
+    "BankData": [
+    ],
+    "jacket": 0,
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "PlayerCompanionId": 0,
+    "shoes": 0,
+    "ItemGiverChained": [
+    ],
+    "isMale": 0b,
+    "face": 0,
+    "peculiarities": [I;]
+}

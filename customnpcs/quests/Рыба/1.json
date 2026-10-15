@@ -1,0 +1,124 @@
+{
+    "CompleterNpc": "Рита",
+    "NextQuestId": 1,
+    "RandomReward": 1b,
+    "QuestRepeat": 1,
+    "QuestCompletion": 0,
+    "Title": "Принести рыбу",
+    "Text": "Принеси мне 16 лосося, и так уж и быть я дам тебе что то от себя.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 100,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Value": 16,
+            "Slot": "minecraft:salmon"
+        }
+    ],
+    "ModRev": 18,
+    "Type": 2,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1754588683379L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "minecraft:crossbow",
+                "Count": 1b,
+                "tag": {
+                    "ChargedProjectiles": [
+                        {
+                            "id": "minecraft:arrow",
+                            "Count": 1b
+                        }
+                    ],
+                    "RepairCost": 1,
+                    "Damage": 0,
+                    "Charged": 1b,
+                    "Enchantments": [
+                        {
+                            "lvl": 2s,
+                            "id": "minecraft:quick_charge"
+                        }
+                    ]
+                }
+            },
+            {
+                "Slot": 1b,
+                "id": "minecraft:netherite_sword",
+                "Count": 1b,
+                "tag": {
+                    "Damage": 0,
+                    "Enchantments": [
+                        {
+                            "lvl": 3s,
+                            "id": "minecraft:looting"
+                        }
+                    ]
+                }
+            },
+            {
+                "Slot": 2b,
+                "id": "minecraft:iron_chestplate",
+                "Count": 1b,
+                "tag": {
+                    "Damage": 0
+                }
+            },
+            {
+                "Slot": 3b,
+                "id": "minecraft:golden_apple",
+                "Count": 1b
+            },
+            {
+                "Slot": 4b,
+                "id": "minecraft:elytra",
+                "Count": 1b,
+                "tag": {
+                    "Damage": 0
+                }
+            },
+            {
+                "Slot": 5b,
+                "id": "minecraft:ender_pearl",
+                "Count": 2b
+            },
+            {
+                "Slot": 6b,
+                "id": "minecraft:netherite_axe",
+                "Count": 1b,
+                "tag": {
+                    "Damage": 0
+                }
+            },
+            {
+                "Slot": 7b,
+                "id": "minecraft:cod",
+                "Count": 32b
+            },
+            {
+                "Slot": 8b,
+                "id": "minecraft:clock",
+                "Count": 1b
+            }
+        ]
+    },
+    "CompleteText": "Молодец! Держи! Как и обещено!"
+}
