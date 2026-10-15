@@ -37,9 +37,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Baliq evaziga kerakli narsalarni yig', so'ng uyga bor va plitaga turib, Boss bilan jang qil.
-G'alaba xaritani yakunlashga imkon beradi, mag'lubiyat esa qaytadan boshlashga majbur qiladi.
-Har bir yangi o'tish noyobdir.",
+    "DialogText": "Baliq tut, savdogarlardan jihoz ol, kechasi dushmanlarga qarshi tur, so'ng BOSSGA TELEPORT lavhasi orqali Boss bilan jang qil.
+Bossni yengsang, Qora Dengizga qayiq beriladi: u yerdagi Dengiz Qirolini yengsang, xarita yakunlanadi.
+Sherigingiz halok bo'lsa, 8 ta mobdan keyin tushadigan aptechka bilan uni tiriltiring. Jamoada jami 5 ta jon bor.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

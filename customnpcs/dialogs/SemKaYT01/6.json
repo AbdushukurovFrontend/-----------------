@@ -15,7 +15,7 @@
         {
             "OptionSlot": 1,
             "Option": {
-                "DialogCommand": "/kill @a",
+                "DialogCommand": "/kill @p",
                 "Dialog": -1,
                 "Title": "Ehtimol, sharh qoldirmayman. Hozircha!",
                 "DialogColor": 16521733,
