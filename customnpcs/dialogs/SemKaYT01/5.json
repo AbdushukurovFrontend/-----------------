@@ -37,9 +37,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Собери необходимые вещи за рыбу, затем отправляйся в дом и, встав на плиту, сразись с Боссом. 
-Победа позволит пройти карту, поражение - начать заново. 
-Каждое новое прохождение уникально.",
+    "DialogText": "Baliq evaziga kerakli narsalarni yig', so'ng uyga bor va plitaga turib, Boss bilan jang qil.
+G'alaba xaritani yakunlashga imkon beradi, mag'lubiyat esa qaytadan boshlashga majbur qiladi.
+Har bir yangi o'tish noyobdir.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

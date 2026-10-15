@@ -7,7 +7,7 @@
     "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 0,
     "AvailabilityScoreboard2Value": 1,
-    "DialogId": 14,
+    "DialogId": 15,
     "AvailabilityQuest": 0,
     "AvailabilityDialog4": 0,
     "AvailabilityScoreboardObjective": "",
@@ -28,7 +28,7 @@
     "AvailabilityScoreboardValue": 1,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Новый___",
+    "DialogTitle": "Yangi____",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 1,
     "AvailabilityFaction2": 0,
@@ -54,7 +54,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1754703124023L,
+        "TimePast": 1754703125441L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Хорошо, оставлю!",
+                "Title": "Yaxshi, qoldiraman!",
                 "DialogColor": 58878,
                 "OptionType": 0
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "/kill @a",
                 "Dialog": -1,
-                "Title": "Я не буду наверное оставлять отзыв. Пока!",
+                "Title": "Ehtimol, sharh qoldirmayman. Hozircha!",
                 "DialogColor": 16521733,
                 "OptionType": 4
             }
@@ -57,8 +57,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Подарок взять нельзя. Но можно оставить отзыв на сайте про эту карту, поделится впечетлениями и поставить оценку от 1 до 10. 
-Твой честный отзыв – это ценный вклад в наше сообщество и возможность выразить свою благодарность или конструктивную критику.",
+    "DialogText": "Sovg'a olib bo'lmaydi. Lekin saytda bu xarita haqida sharh qoldirish, taassurotlaring bilan bo'lishish va 1 dan 10 gacha baho qo'yish mumkin.
+Sening halol sharhing – jamiyatimizga qo'shilgan qimmatli hissa hamda minnatdorchilik yoki konstruktiv tanqidni bildirish imkoniyatidir.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

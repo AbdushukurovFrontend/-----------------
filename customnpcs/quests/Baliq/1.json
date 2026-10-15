@@ -1,11 +1,11 @@
 {
-    "CompleterNpc": "Рита",
+    "CompleterNpc": "Rita",
     "NextQuestId": 1,
     "RandomReward": 1b,
     "QuestRepeat": 1,
     "QuestCompletion": 0,
-    "Title": "Принести рыбу",
-    "Text": "Принеси мне 16 лосося, и так уж и быть я дам тебе что то от себя.",
+    "Title": "Baliq olib kel",
+    "Text": "Menga 16 ta losos keltir, shunda, mayli, o'zimdan senga nimadir beraman.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -120,5 +120,5 @@
             }
         ]
     },
-    "CompleteText": "Молодец! Держи! Как и обещено!"
+    "CompleteText": "Barakalla! Ol! Va'da qilganimdek!"
 }

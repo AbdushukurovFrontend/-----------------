@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 5,
-                "Title": "Как пройти твою карту?",
+                "Title": "Xaritangni qanday yakunlash mumkin?",
                 "DialogColor": 58878,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 6,
-                "Title": "Можно ли взять у тебя подарок?",
+                "Title": "Sendan sovg'a olsam bo'ladimi?",
                 "DialogColor": 58878,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 7,
-                "Title": "Могу ли я с тобой связаться?",
+                "Title": "Men sen bilan bog'lana olamanmi?",
                 "DialogColor": 58878,
                 "OptionType": 1
             }
@@ -67,7 +67,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Здравствуй, игрок! Я разработчик этой карты. Что бы ты хотел спросить у меня?",
+    "DialogText": "Salom, o'yinchi! Men bu xaritaning ishlab chiqaruvchisiman. Mendan nimani so'ramoqchisan?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

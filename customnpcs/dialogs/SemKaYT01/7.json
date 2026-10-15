@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Хорошо",
+                "Title": "Yaxshi",
                 "DialogColor": 15930328,
                 "OptionType": 0
             }
@@ -47,8 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Да, можешь! На сайте в моём профиле есть мой дискорд, напиши мне и я с тобой побеседую! 
-Буду рад пообщаться с тобой (адэкватно), так что не стесняйся!",
+    "DialogText": "Ha, mumkin! Saytdagi profilimda Discord manzilim bor, menga yoz, men sen bilan suhbatlashaman!
+Sen bilan (odob doirasida) suhbatlashishdan xursand bo'laman, shuning uchun uyalma!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

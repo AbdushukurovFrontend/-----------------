@@ -2,42 +2,12 @@
     "DialogShowWheel": 0b,
     "AvailabilityQuestId": -1,
     "Options": [
-        {
-            "OptionSlot": 0,
-            "Option": {
-                "DialogCommand": "/gamemode creative @p",
-                "Dialog": -1,
-                "Title": "Креатив",
-                "DialogColor": 260092,
-                "OptionType": 4
-            }
-        },
-        {
-            "OptionSlot": 1,
-            "Option": {
-                "DialogCommand": "/gamemode spectator @p",
-                "Dialog": -1,
-                "Title": "Спектатор",
-                "DialogColor": 10953200,
-                "OptionType": 4
-            }
-        },
-        {
-            "OptionSlot": 2,
-            "Option": {
-                "DialogCommand": "/op @p",
-                "Dialog": -1,
-                "Title": "OP (Работает на ATERNOS хостинге)",
-                "DialogColor": 16126481,
-                "OptionType": 4
-            }
-        }
     ],
     "AvailabilityScoreboardType": 1,
     "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 0,
     "AvailabilityScoreboard2Value": 1,
-    "DialogId": 11,
+    "DialogId": 16,
     "AvailabilityQuest": 0,
     "AvailabilityDialog4": 0,
     "AvailabilityScoreboardObjective": "",
@@ -58,7 +28,7 @@
     "AvailabilityScoreboardValue": 1,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Новый",
+    "DialogTitle": "Yangi_____",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 1,
     "AvailabilityFaction2": 0,
@@ -67,7 +37,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Выбирай...",
+    "DialogText": "",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -84,7 +54,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1754703487541L,
+        "TimePast": 1754703126809L,
         "Time": 0L,
         "Subject": ""
     }
