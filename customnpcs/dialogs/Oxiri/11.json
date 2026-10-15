@@ -2,36 +2,6 @@
     "DialogShowWheel": 0b,
     "AvailabilityQuestId": -1,
     "Options": [
-        {
-            "OptionSlot": 0,
-            "Option": {
-                "DialogCommand": "/gamemode creative @p",
-                "Dialog": -1,
-                "Title": "Kreativ",
-                "DialogColor": 260092,
-                "OptionType": 4
-            }
-        },
-        {
-            "OptionSlot": 1,
-            "Option": {
-                "DialogCommand": "/gamemode spectator @p",
-                "Dialog": -1,
-                "Title": "Kuzatuvchi",
-                "DialogColor": 10953200,
-                "OptionType": 4
-            }
-        },
-        {
-            "OptionSlot": 2,
-            "Option": {
-                "DialogCommand": "/op @p",
-                "Dialog": -1,
-                "Title": "OP (ATERNOS hostingida ishlaydi)",
-                "DialogColor": 16126481,
-                "OptionType": 4
-            }
-        }
     ],
     "AvailabilityScoreboardType": 1,
     "DialogHideNPC": 0b,
